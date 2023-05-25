@@ -36,3 +36,11 @@ code {
 .navbar a:hover {
   color: #1389cf;
 }
+
+.footer {
+  background-color: #079ef5;
+  color: white;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}

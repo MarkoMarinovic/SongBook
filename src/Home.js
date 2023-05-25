@@ -1,6 +1,9 @@
+import Button from "react-bootstrap/Button";
+import "bootstrap/dist/css/bootstrap.min.css";
+
 const Home = () => {
     return ( 
-        <h1>Home page</h1>
+        <Button>button</Button>
      );
 }
  
