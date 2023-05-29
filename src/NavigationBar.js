@@ -41,6 +41,7 @@ function NavigationBar() {
                 Separated link
               </NavDropdown.Item>
             </NavDropdown>
+            <Nav.Link href="/Login">Login</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
